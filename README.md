@@ -71,7 +71,7 @@ https://pinapl-py.readthedocs.io/en/latest/
 JACKS – Joint Analysis of CRISPR/Cas9 Knockout Screens
 https://github.com/felicityallen/JACKS
 
-**ChIP-seq / ATAC-seq**
+**ChIP-seq/ATAC-seq**
 
 MACS2 – Model-based Analysis for ChIP-Seq
 https://github.com/macs3-project/MACS
